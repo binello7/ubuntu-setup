@@ -1,7 +1,6 @@
 sudo apt update && sudo apt install libcanberra-gtk-module libgconf-2-4
-echo "Download Popcorn-Time from https://popcorntime.sh/"
 sudo mkdir /opt/popcorn-time
-cd ~/Programs
+cd progs
 sudo tar Jxf Popcorn-Time-* -C /opt/popcorn-time
 sudo ln -sf /opt/popcorn-time/Popcorn-Time /usr/bin/Popcorn-Time
 sudo touch /usr/share/applications/popcorntime.desktop

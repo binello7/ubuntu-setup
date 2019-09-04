@@ -7,6 +7,7 @@ apt_pkgs=(
   libgdal-dev
   terminator
   virtualenv
+  vinagre
 )
 
 for ((i=0; i<${#apt_pkgs[@]}; i++))

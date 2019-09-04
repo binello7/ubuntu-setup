@@ -2,6 +2,7 @@
 
 apt_pkgs=(
   byobu
+  colordiff
   libgdal1i
   libgdal1-dev
   libgdal-dev

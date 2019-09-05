@@ -13,6 +13,7 @@ apt_pkgs=(
   network-manager-vpnc
   network-manager-vpnc-gnome
   polybox-client
+  libimage-exiftool-perl
 )
 
 echo "Add new repositories to sources.list..."

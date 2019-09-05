@@ -9,6 +9,9 @@ apt_pkgs=(
   terminator
   virtualenv
   vinagre
+  vpnc
+  network-manager-vpnc
+  network-manager-vpnc-gnome
 )
 
 for ((i=0; i<${#apt_pkgs[@]}; i++))

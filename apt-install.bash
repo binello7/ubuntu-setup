@@ -14,6 +14,8 @@ apt_pkgs=(
   network-manager-vpnc-gnome
   polybox-client
   libimage-exiftool-perl
+  wakeonlan
+  openssh-server
 )
 
 echo "Add new repositories to sources.list..."

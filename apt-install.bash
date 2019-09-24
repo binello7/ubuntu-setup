@@ -18,6 +18,7 @@ apt_pkgs=(
   openssh-server
   qgis
   qgis-plugin-grass
+  cifs-utils
 )
 
 echo "Add new repositories to sources.list..."

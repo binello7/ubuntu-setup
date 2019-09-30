@@ -19,6 +19,8 @@ apt_pkgs=(
   qgis
   qgis-plugin-grass
   cifs-utils
+  rar
+  unrar
 )
 
 echo "Add new repositories to sources.list..."

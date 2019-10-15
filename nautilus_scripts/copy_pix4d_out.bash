@@ -27,12 +27,12 @@ case $camera in
 
   nir)
     mkdir reflectance
-    cp $camera_folder/${filename}/4_index/reflectance/${filename}_* $camera_out/reflectance
+    cp $camera_folder/${filename}/4_index/reflectance/${filename}_group1.tif $camera_out/reflectance
   ;;
 
   vis)
     mkdir reflectance
-    cp $camera_folder/${filename}/4_index/reflectance/${filename}_* $camera_out/reflectance
+    cp $camera_folder/${filename}/4_index/reflectance/${filename}_group1.tif $camera_out/reflectance
   ;;
 
   thermal)

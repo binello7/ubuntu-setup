@@ -9,6 +9,7 @@ date=${structure_array[folder_levels-2]}
 location=${structure_array[folder_levels-3]}
 
 filename="${location}_${date}_${camera}"
+s_reflectance="transparent_reflectance_group1"
 
 mkdir Outputs
 cd Outputs
@@ -27,12 +28,12 @@ case $camera in
 
   nir)
     mkdir reflectance
-    cp $camera_folder/${filename}/4_index/reflectance/${filename}_group1.tif $camera_out/reflectance
+    cp $camera_folder/${filename}/4_index/reflectance/${filename}_${s_reflectance}.tif $camera_out/reflectance
   ;;
 
   vis)
     mkdir reflectance
-    cp $camera_folder/${filename}/4_index/reflectance/${filename}_group1.tif $camera_out/reflectance
+    cp $camera_folder/${filename}/4_index/reflectance/${filename}_${s_reflectance}.tif $camera_out/reflectance
   ;;
 
   thermal)

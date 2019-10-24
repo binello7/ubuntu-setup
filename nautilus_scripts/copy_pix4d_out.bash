@@ -9,10 +9,11 @@ date=${structure_array[folder_levels-2]}
 location=${structure_array[folder_levels-3]}
 
 filename="${location}_${date}_${camera}"
-s_reflectance="transparent_reflectance_group1"
+str_vis_nir="transparent_reflectance_group1"
+str_thermal="transparent_reflectance_thermal ir"
 
-mkdir Outputs
-cd Outputs
+mkdir "$date"
+cd "$date"
 mkdir "$camera"
 cd "$camera"
 camera_out="$PWD"
@@ -20,25 +21,22 @@ camera_out="$PWD"
 case $camera in
   rgb)
     mkdir dsm mesh mosaic point_cloud
-    cp $camera_folder/${filename}/3_dsm_ortho/1_dsm/${filename}_dsm.* $camera_out/dsm
-    cp $camera_folder/${filename}/3_dsm_ortho/2_mosaic/${filename}_* $camera_out/mosaic
+    cp $camera_folder/${filename}/3_dsm_ortho/1_dsm/${filename}_dsm.tif $camera_out/dsm
+    cp $camera_folder/${filename}/3_dsm_ortho/2_mosaic/${filename}_transparent_mosaic_group1.tif $camera_out/mosaic
     cp $camera_folder/${filename}/2_densification/3d_mesh/${filename}_* $camera_out/mesh
     cp $camera_folder/${filename}/2_densification/point_cloud/${filename}_* $camera_out/point_cloud
   ;;
 
   nir)
-    mkdir reflectance
-    cp $camera_folder/${filename}/4_index/reflectance/${filename}_${s_reflectance}.tif $camera_out/reflectance
+    cp $camera_folder/${filename}/4_index/reflectance/${filename}_${str_vis_nir}.tif $camera_out/
   ;;
 
   vis)
-    mkdir reflectance
-    cp $camera_folder/${filename}/4_index/reflectance/${filename}_${s_reflectance}.tif $camera_out/reflectance
+    cp $camera_folder/${filename}/4_index/reflectance/${filename}_${str_vis_nir}.tif $camera_out/
   ;;
 
   thermal)
-    mkdir reflectance
-    cp $camera_folder/${filename}/4_index/reflectance/${filename}_* $camera_out/reflectance
+    cp "${camera_folder}/${filename}/4_index/reflectance/${filename}_${str_thermal}.tif" $camera_out/
   ;;
 
   *)

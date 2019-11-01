@@ -21,6 +21,7 @@ apt_pkgs=(
   cifs-utils
   rar
   unrar
+  pdfshuffler
 )
 
 echo "Add new repositories to sources.list..."

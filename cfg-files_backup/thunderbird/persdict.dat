@@ -1,9 +1,13 @@
 gestitchte
+RGB
 Ground
 multispectral
+hyperspectral
+LiDAR
 Rusca
 Sebastiano
 stitchen
+NIR
 Interpolation
 Stitchen
 Düngungskarten
@@ -11,6 +15,7 @@ Scan
 Düngungsmenge
 Gruess
 Email
+Datasets
 Düngungsversuche
 dispo
 Truth
@@ -19,6 +24,8 @@ Semesterarbeit
 Düngungsmethoden
 inokuliert
 gestitcht
+dataset
 Hyperspektralkameras
+orthophotos
 Stitching
 datasets

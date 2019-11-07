@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" dbusName="okular" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv">
+<xbel xmlns:kdepriv="http://www.kde.org/kdepriv" dbusName="okular" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
  <folder href="file:///home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf">
   <title>/home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf</title>
   <bookmark href="file:///home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley%20et%20al.%20-%20Programming%20Robots%20with%20ROS.pdf#29;C2:0.499289:0.574054:1">
    <title>#30</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/seba/Dropbox/Digital.Library/01_Letteratura tecnica e scientifica/Papers/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf">
+  <title>/home/seba/Dropbox/Digital.Library/01_Letteratura tecnica e scientifica/Papers/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf</title>
+  <bookmark href="file:///home/seba/Dropbox/Digital.Library/01_Letteratura%20tecnica%20e%20scientifica/Papers/Morsdorf%20et%20al.%20-%202018%20-%20Close-range%20laser%20scanning%20in%20forests%20towards%20phy.pdf#2;C2:0.499564:0.487385:1">
+   <title>#3</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>

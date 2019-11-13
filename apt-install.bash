@@ -1,27 +1,17 @@
 #!/bin/bash
 
 apt_pkgs=(
-  byobu
   colordiff
-  libgdal1i
-  libgdal1-dev
-  libgdal-dev
   terminator
-  virtualenv
   vinagre
   vpnc
   network-manager-vpnc
   network-manager-vpnc-gnome
-  polybox-client
-  libimage-exiftool-perl
   wakeonlan
   openssh-server
-  qgis
-  qgis-plugin-grass
   cifs-utils
   rar
   unrar
-  pdfshuffler
 )
 
 echo "Add new repositories to sources.list..."

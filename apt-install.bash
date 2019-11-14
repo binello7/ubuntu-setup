@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt_pkgs=(
+apt_install=(
   cifs-utils
   colordiff
   libdvd-pkg
@@ -16,12 +16,21 @@ apt_pkgs=(
   wakeonlan
 )
 
+apt_purge=(
+  totem
+)
+
 echo "Update apt-index..."
 sudo apt update
 
-for ((i=0; i<${#apt_pkgs[@]}; i++))
+for pkg in "${apt_install[@]}"
 do
-  sudo apt install -y ${apt_pkgs[$i]}
+  sudo apt install -y $pkg
 done
-
 echo -e "\nInstall of apt-packages finished"
+
+for pkg in "${apt_purge[@]}"
+do
+  sudo apt purge -y $pkg
+done
+echo -e "\nPurge of apt-packages finished"

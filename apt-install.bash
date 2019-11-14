@@ -1,17 +1,19 @@
 #!/bin/bash
 
 apt_pkgs=(
+  cifs-utils
   colordiff
-  terminator
-  vinagre
-  vpnc
+  libdvd-pkg
   network-manager-vpnc
   network-manager-vpnc-gnome
-  wakeonlan
   openssh-server
-  cifs-utils
   rar
+  terminator
   unrar
+  vinagre
+  vlc
+  vpnc
+  wakeonlan
 )
 
 echo "Update apt-index..."

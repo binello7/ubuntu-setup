@@ -13,6 +13,7 @@ apt_install=(
   openssh-server
   pdfshuffler
   polybox-client
+  python3-venv
   qgis
   qgis-plugin-grass
   rar

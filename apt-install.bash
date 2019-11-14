@@ -1,27 +1,27 @@
 #!/bin/bash
 
-apt_pkgs=(
+apt_install=(
   byobu
+  cifs-utils
   colordiff
-  libgdal1i
-  libgdal1-dev
   libgdal-dev
-  terminator
-  virtualenv
-  vinagre
-  vpnc
+  libgdal1-dev
+  libgdal1i
+  libimage-exiftool-perl
   network-manager-vpnc
   network-manager-vpnc-gnome
-  polybox-client
-  libimage-exiftool-perl
-  wakeonlan
   openssh-server
+  pdfshuffler
+  polybox-client
   qgis
   qgis-plugin-grass
-  cifs-utils
   rar
+  terminator
   unrar
-  pdfshuffler
+  vinagre
+  virtualenv
+  vpnc
+  wakeonlan
 )
 
 echo "Add new repositories to sources.list..."
@@ -37,9 +37,9 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key 51F523511C7028C3
 echo "Update apt-index..."
 sudo apt update
 
-for ((i=0; i<${#apt_pkgs[@]}; i++))
+for pkg in ${apt_install[@]}
 do
-  sudo apt install ${apt_pkgs[$i]}
+  sudo apt install -y $pkg
 done
 
 echo -e "\nInstall of apt-packages finished"

@@ -6,6 +6,7 @@ apt_install=(
   libdvd-pkg
   network-manager-vpnc
   network-manager-vpnc-gnome
+  net-tools
   openssh-server
   rar
   terminator

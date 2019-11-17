@@ -3,13 +3,16 @@
 apt_install=(
   cifs-utils
   colordiff
+  handbrake
   libdvd-pkg
   network-manager-vpnc
   network-manager-vpnc-gnome
   net-tools
+  openssh-client
   openssh-server
   rar
   terminator
+  ubuntu-restricted-extras
   unrar
   vinagre
   vlc

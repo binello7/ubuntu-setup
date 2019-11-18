@@ -10,6 +10,8 @@ apt_install=(
   libimage-exiftool-perl
   network-manager-vpnc
   network-manager-vpnc-gnome
+  net-tools
+  openssh-client
   openssh-server
   pdfshuffler
   polybox-client

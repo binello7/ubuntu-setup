@@ -2,6 +2,7 @@
 
 snap_pkgs=(
   'atom --classic'
+  'skype --classic'
 )
 
 for ((i=0; i<${#snap_pkgs[@]}; i++))

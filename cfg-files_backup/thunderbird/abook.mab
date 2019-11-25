@@ -1,0 +1,114 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=Notes)(B9=LastModifiedDate)(BA=RecordKey)(BB=AddrCharSet)
+  (BC=LastRecordKey)(BD=ns:addrbk:db:table:kind:pab)(BE=ListName)
+  (BF=ListNickName)(C0=ListDescription)(C1=ListTotalAddresses)
+  (C2=LowercaseListName)(C3=ns:addrbk:db:table:kind:deleted)(C4=DbRowID)
+  (C5=_Yahoo)(C6=_MSN)(C7=_Skype)(C8=PhotoType)(C9=_ICQ)(CA=_IRC)
+  (CB=_JabberId)(CC=PreferDisplayName)(CD=PhotoName)(CE=PhotoURI)(CF=_QQ)
+  (D0=_GoogleTalk)(80=ns:addrbk:db:row:scope:card:all)
+  (81=ns:addrbk:db:row:scope:list:all)
+  (82=ns:addrbk:db:row:scope:data:all)(83=UID)(84=FirstName)(85=LastName)
+  (86=PhoneticFirstName)(87=PhoneticLastName)(88=DisplayName)
+  (89=NickName)(8A=PrimaryEmail)(8B=LowercasePrimaryEmail)
+  (8C=SecondEmail)(8D=LowercaseSecondEmail)(8E=PreferMailFormat)
+  (8F=PopularityIndex)(90=WorkPhone)(91=HomePhone)(92=FaxNumber)
+  (93=PagerNumber)(94=CellularNumber)(95=WorkPhoneType)(96=HomePhoneType)
+  (97=FaxNumberType)(98=PagerNumberType)(99=CellularNumberType)
+  (9A=HomeAddress)(9B=HomeAddress2)(9C=HomeCity)(9D=HomeState)
+  (9E=HomeZipCode)(9F=HomeCountry)(A0=WorkAddress)(A1=WorkAddress2)
+  (A2=WorkCity)(A3=WorkState)(A4=WorkZipCode)(A5=WorkCountry)
+  (A6=JobTitle)(A7=Department)(A8=Company)(A9=_AimScreenName)
+  (AA=AnniversaryYear)(AB=AnniversaryMonth)(AC=AnniversaryDay)
+  (AD=SpouseName)(AE=FamilyName)(AF=WebPage1)(B0=WebPage2)(B1=BirthYear)
+  (B2=BirthMonth)(B3=BirthDay)(B4=Custom1)(B5=Custom2)(B6=Custom3)
+  (B7=Custom4)>
+
+<(C1=b)(A3=Roland Siegwart)(82=a8092b88-813e-4543-99d3-c32102f3218f)
+  (80=0)(83=1)(98=6)(84=rsiegwart@ethz.ch)(C8=1572276469)(8E=)(9F=generic)
+  (A0=Siegwart)(A2=Roland)(AD=Francesco Argento)(87
+    =e487b0f0-bc30-4d56-aeff-a3e785ceeea0)(88=2)(89
+    =francesco.argento@usys.ethz.ch)(AF=1571131623)(AE=Argento)(B0
+    =Francesco)(8A=Raghav Khanna)(8B=213ccc5c-92fb-4d21-b82b-c839f3a29b4d)
+  (8C=3)(8D=raghavkhanna2007@gmail.com)(A9=St$C3$A9phane Burgos)(93
+    =62b13215-95ae-4d83-b42e-a3851212f233)(94=5)(95=stephane.burgos@bfh.ch)
+  (AB=1571131595)(AA=Burgos)(AC=St$C3$A9phane)(A5=Frank Liebisch)(97
+    =1913d66b-afcb-4f50-a9cb-bb1d4794dc06)(99=frank.liebisch@usys.ethz.ch)
+  (A7=1571131558)(A6=Liebisch)(A8=Frank)(9A=ASL-STAFF)(9B
+    =c6faee89-65ec-4311-8b98-556eb26fb901)(9C=7)(9D=asl@mavt.ethz.ch)
+  (C9=1572338118)(B3=Congiu Giuseppe (IfU, SWW\))(B4
+    =a7ea2ef5-f8a4-4bac-9c0a-e4a35f24da36)(B5=8)(B6
+    =congiu@ifu.baug.ethz.ch)(C4=1571389518)(B7
+    =24ace7fa-1769-4722-b5e9-9ad5efa68768)(B8=9)(B9
+    =sebastiano.rusca@gmail.com)(BA=90fc7df1-eb3c-4d95-8a55-bd0e499f8eff)
+  (BB=10)(BC=alexander.garcia.k@hotmail.com)(C5=16)(BE
+    =2dd5ca61-e46c-4b73-b973-6d2488787b48)(BF=11)(C0=nduquev8@gmail.com)
+  (C3=17)>
+{1:^80 {(k^BD:c)(s=9)} 
+  [1:^82(^BC=b)]
+  [1(^88^A3)(^83^82)(^8E=0)(^C4=1)(^8F=6)(^8A^84)(^B9^C8)(^8B^84)(^BA=1)
+    (^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)(^C6=)(^A8=)(^B4=)(^C7=)
+    (^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)(^B1=)(^B3=)(^C9=)(^94=)
+    (^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)(^85^A0)(^9D=)(^A7=)
+    (^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)(^92=)(^89=)(^A0=)
+    (^B5=)(^9E=)(^8C=)(^84^A2)(^D0=)(^B6=)]
+  [2(^88^AD)(^83^87)(^8E=0)(^C4=2)(^8F=0)(^8A^89)(^B9^AF)(^8B^89)(^BA=2)
+    (^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)(^C6=)(^A8=)(^B4=)(^C7=)
+    (^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)(^B1=)(^B3=)(^C9=)(^94=)
+    (^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)(^85^AE)(^9D=)(^A7=)
+    (^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)(^92=)(^89=)(^A0=)
+    (^B5=)(^9E=)(^8C=)(^84^B0)(^D0=)(^B6=)]
+  [3(^88^8A)(^83^8B)(^8E=0)(^C4=3)(^8F=0)(^8A^8D)(^B9=0)(^8B^8D)(^BA=3)]
+  [5(^88^A9)(^83^93)(^8E=0)(^C4=5)(^8F=0)(^8A^95)(^B9^AB)(^8B^95)(^BA=5)
+    (^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)(^C6=)(^A8=)(^B4=)(^C7=)
+    (^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)(^B1=)(^B3=)(^C9=)(^94=)
+    (^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)(^85^AA)(^9D=)(^A7=)
+    (^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)(^92=)(^89=)(^A0=)
+    (^B5=)(^9E=)(^8C=)(^84^AC)(^D0=)(^B6=)]
+  [6(^88^A5)(^83^97)(^8E=0)(^C4=6)(^8F=0)(^8A^99)(^B9^A7)(^8B^99)(^BA=6)
+    (^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)(^C6=)(^A8=)(^B4=)(^C7=)
+    (^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)(^B1=)(^B3=)(^C9=)(^94=)
+    (^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)(^85^A6)(^9D=)(^A7=)
+    (^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)(^92=)(^89=)(^A0=)
+    (^B5=)(^9E=)(^8C=)(^84^A8)(^D0=)(^B6=)]
+  [7(^88^9A)(^83^9B)(^8E=0)(^C4=7)(^8F=2)(^8A^9D)(^B9^C9)(^8B^9D)(^BA=7)]
+  [8(^88^B3)(^83^B4)(^8E=0)(^C4=8)(^8F=2)(^8A^B6)(^B9^C4)(^8B^B6)(^BA=8)]
+  [9(^88=)(^83^B7)(^8E=0)(^C4=9)(^8F=0)(^8A^B9)(^B9=0)(^8B^B9)(^BA=9)]
+  [A(^88=)(^83^BA)(^8E=0)(^C4=10)(^8F=2)(^8A^BC)(^B9^C4)(^8B^BC)(^BA=16)]
+  [B(^88=)(^83^BE)(^8E=0)(^C4=11)(^8F=2)(^8A^C0)(^B9^C4)(^8B^C0)(^BA=17)]}
+
+@$${1{@
+<(CA=1572620024)>[-1:^80(^88^A3)(^83^82)(^8E=0)(^C4=1)(^8F=7)(^8A^84)
+    (^B9^CA)(^8B^84)(^BA=1)(^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)
+    (^C6=)(^A8=)(^B4=)(^C7=)(^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)
+    (^B1=)(^B3=)(^C9=)(^94=)(^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)
+    (^85^A0)(^9D=)(^A7=)(^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)
+    (^92=)(^89=)(^A0=)(^B5=)(^9E=)(^8C=)(^84^A2)(^D0=)(^B6=)]
+@$$}1}@
+
+@$${3{@
+<(CB=1573205180)>[-1:^80(^88^A3)(^83^82)(^8E=0)(^C4=1)(^8F=8)(^8A^84)
+    (^B9^CB)(^8B^84)(^BA=1)(^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)
+    (^C6=)(^A8=)(^B4=)(^C7=)(^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)
+    (^B1=)(^B3=)(^C9=)(^94=)(^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)
+    (^85^A0)(^9D=)(^A7=)(^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)
+    (^92=)(^89=)(^A0=)(^B5=)(^9E=)(^8C=)(^84^A2)(^D0=)(^B6=)]
+@$$}3}@
+
+@$${4{@
+<(CC=1573209482)>[-1:^80(^88^A3)(^83^82)(^8E=0)(^C4=1)(^8F=9)(^8A^84)
+    (^B9^CC)(^8B^84)(^BA=1)(^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)
+    (^C6=)(^A8=)(^B4=)(^C7=)(^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)
+    (^B1=)(^B3=)(^C9=)(^94=)(^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)
+    (^85^A0)(^9D=)(^A7=)(^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)
+    (^92=)(^89=)(^A0=)(^B5=)(^9E=)(^8C=)(^84^A2)(^D0=)(^B6=)]
+@$$}4}@
+
+@$${6{@
+<(CD=1573814583)>[-1:^80(^88^A3)(^83^82)(^8E=0)(^C4=1)(^8F=10)(^8A^84)
+    (^B9^CD)(^8B^84)(^BA=1)(^87=)(^86=)(^C5=)(^B8=)(^A2=)(^AF=)(^9B=)
+    (^C6=)(^A8=)(^B4=)(^C7=)(^A5=)(^93=)(^A6=)(^A4=)(^9C=)(^C8^9F)(^9F=)
+    (^B1=)(^B3=)(^C9=)(^94=)(^CA=)(^A1=)(^CB=)(^9A=)(^A3=)(^A9=)(^CC=1)
+    (^85^A0)(^9D=)(^A7=)(^B7=)(^B0=)(^CD=)(^CE=)(^91=)(^B2=)(^CF=)(^90=)
+    (^92=)(^89=)(^A0=)(^B5=)(^9E=)(^8C=)(^84^A2)(^D0=)(^B6=)]
+@$$}6}@

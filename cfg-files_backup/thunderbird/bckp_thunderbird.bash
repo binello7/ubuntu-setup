@@ -1,3 +1,6 @@
 #!/bin/bash
 
-cp ~/.thunderbird/99y9vxds.default/persdict.dat .
+thunderbird="~/.thunderbird/*.default"
+
+eval "cp $thunderbird/persdict.dat ."
+eval "cp $thunderbird/abook.mab ."

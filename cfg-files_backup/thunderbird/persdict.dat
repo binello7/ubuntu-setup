@@ -6,6 +6,7 @@ hyperspectral
 LiDAR
 Sebastiano
 stitchen
+NIR
 Interpolation
 Stitchen
 Düngungskarten
@@ -18,12 +19,13 @@ Datasets
 Düngungsversuche
 dispo
 Truth
+radiometrisch
 Scan
 Groundtruth
 Semesterarbeit
 Düngungsmethoden
 inokuliert
-NIR
+Hyperspektraldaten
 dataset
 Hyperspektralkameras
 orthophotos

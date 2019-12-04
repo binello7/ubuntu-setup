@@ -18,6 +18,7 @@ apt_install=(
   qgis
   qgis-plugin-grass
   rar
+  shutter
   terminator
   unrar
   vinagre
@@ -29,6 +30,7 @@ apt_install=(
 echo "Add new repositories to sources.list..."
 echo 'deb http://polybox.ethz.ch/repo/Ubuntu_18.04/ /' | sudo tee -a /etc/apt/sources.list.d/polybox-client.list
 echo -e '\ndeb https://qgis.org/ubuntu bionic main' | sudo tee -a /etc/apt/sources.list
+sudo add-apt-repository ppa:linuxuprising/shutter
 
 echo "Add repositories keys..."
 wget http://polybox.ethz.ch/repo/Ubuntu_18.04/Release.key

@@ -23,8 +23,10 @@ apt_install=(
   unrar
   vinagre
   virtualenv
+  vlc
   vpnc
   wakeonlan
+  wine-stable
 )
 
 echo "Add new repositories to sources.list..."

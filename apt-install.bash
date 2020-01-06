@@ -27,7 +27,7 @@ apt_purge=(
 echo "Update apt-index..."
 sudo apt update
 
-for pkg in "${apt_install[@]}"
+for pkg in ${apt_install[@]}
 do
   sudo apt install -y $pkg
 done

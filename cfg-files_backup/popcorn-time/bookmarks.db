@@ -1,0 +1,17 @@
+{"imdb_id":"tt0758758","type":"movie","_id":"2ogzp9GchT2o2rTC"}
+{"imdb_id":"tt8714904","type":"tvshow","_id":"EGFaIF0GOnKLt1L9"}
+{"imdb_id":"tt3920596","type":"tvshow","_id":"L8DBB1zT2zc83ebZ"}
+{"imdb_id":"tt7366338","type":"tvshow","_id":"O4KFJpMxM8dL02br"}
+{"imdb_id":"tt0475784","type":"tvshow","_id":"QdvIDzwEVg1Y91M0"}
+{"imdb_id":"tt1856010","type":"tvshow","_id":"UZzRzQ2J0XjoTUly"}
+{"imdb_id":"tt2085059","type":"tvshow","_id":"WWjz6fEbPrsK2MMC"}
+{"imdb_id":"tt4633694","type":"movie","_id":"adGHPQyrfiRS7sd7"}
+{"imdb_id":"tt9495224","type":"movie","_id":"enMMaPYXGzYxHan1"}
+{"imdb_id":"tt2442560","type":"tvshow","_id":"hatqxNIINuaHTMmI"}
+{"imdb_id":"tt6155172","type":"movie","_id":"iWEQsvkXretBpOJE"}
+{"imdb_id":"tt0335119","type":"movie","_id":"jA2PtdWDUv7WsrmS"}
+{"imdb_id":"tt1924394","type":"movie","_id":"oPAPvcl7YuoeqIob"}
+{"imdb_id":"tt0190590","type":"movie","_id":"oUe2mbe86vMu7bra"}
+{"imdb_id":"tt1130884","type":"movie","_id":"p4dMJjUwiThiGMsi"}
+{"imdb_id":"tt3312830","type":"movie","_id":"zUyuFWMrNkaPu4uO"}
+{"$$indexCreated":{"fieldName":"imdb_id","unique":true,"sparse":false}}

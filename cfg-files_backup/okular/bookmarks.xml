@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel dbusName="okular" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks">
+<xbel xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" dbusName="okular" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
  <folder href="file:///home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf">
   <title>/home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf</title>
  </folder>
@@ -9,14 +9,6 @@
  </folder>
  <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/Rosebrock - 2017 - Deep Learning for Computer Vision with Python.pdf">
   <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/Rosebrock - 2017 - Deep Learning for Computer Vision with Python.pdf</title>
-  <bookmark href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/Rosebrock%20-%202017%20-%20Deep%20Learning%20for%20Computer%20Vision%20with%20Python.pdf#252;C2:0.499564:0.497846:1">
-   <title>#253</title>
-   <info>
-    <metadata owner="http://freedesktop.org">
-     <bookmark:icon name=""/>
-    </metadata>
-   </info>
-  </bookmark>
  </folder>
  <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf">
   <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf</title>
@@ -34,8 +26,8 @@
  </folder>
  <folder href="file:///home/seba/Dropbox/Digital.Library/00_To.read/Git.pdf">
   <title>/home/seba/Dropbox/Digital.Library/00_To.read/Git.pdf</title>
-  <bookmark href="file:///home/seba/Dropbox/Digital.Library/00_To.read/Git.pdf#25;C2:0.499419:0.787007:1">
-   <title>#26</title>
+  <bookmark href="file:///home/seba/Dropbox/Digital.Library/00_To.read/Git.pdf#41">
+   <title>#42</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -48,5 +40,30 @@
  </folder>
  <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Inoue et al. - 2017 - Spectral Reflectance Estimation and Color Reproduc.pdf">
   <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Inoue et al. - 2017 - Spectral Reflectance Estimation and Color Reproduc.pdf</title>
+ </folder>
+ <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Precision.agriculture/Basso et al. - 2016 - Variable rate nitrogen fertilizer response in whea.pdf">
+  <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Precision.agriculture/Basso et al. - 2016 - Variable rate nitrogen fertilizer response in whea.pdf</title>
+ </folder>
+ <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Torbick and Becker - 2009 - Evaluating Principal Components Analysis for Ident.pdf">
+  <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Torbick and Becker - 2009 - Evaluating Principal Components Analysis for Ident.pdf</title>
+  <bookmark href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Torbick%20and%20Becker%20-%202009%20-%20Evaluating%20Principal%20Components%20Analysis%20for%20Ident.pdf#4;C2:0.5:0.439808:1">
+   <title>#5</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/James et al. - 2013 - An introduction to statistical learning with appl.pdf">
+  <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/James et al. - 2013 - An introduction to statistical learning with appl.pdf</title>
+  <bookmark href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/James%20et%20al.%20-%202013%20-%20An%20introduction%20to%20statistical%20learning%20with%20appl.pdf#61;C2:0.49941:0.785381:1">
+   <title>#62</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
  </folder>
 </xbel>

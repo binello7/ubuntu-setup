@@ -4,6 +4,7 @@ apt_install=(
   byobu
   cifs-utils
   colordiff
+  git-gui
   libgdal-dev
   libgdal1-dev
   libgdal1i

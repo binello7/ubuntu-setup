@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel dbusName="okular" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks">
- <folder href="file:///home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf">
-  <title>/home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf</title>
- </folder>
- <folder href="file:///home/seba/Dropbox/Digital.Library/01_Letteratura tecnica e scientifica/Papers/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf">
-  <title>/home/seba/Dropbox/Digital.Library/01_Letteratura tecnica e scientifica/Papers/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf</title>
- </folder>
- <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/Rosebrock - 2017 - Deep Learning for Computer Vision with Python.pdf">
-  <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/Rosebrock - 2017 - Deep Learning for Computer Vision with Python.pdf</title>
-  <bookmark href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/Rosebrock%20-%202017%20-%20Deep%20Learning%20for%20Computer%20Vision%20with%20Python.pdf#72;C2:0.499564:0.458462:1">
-   <title>#73</title>
+<xbel xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" dbusName="okular" xmlns:kdepriv="http://www.kde.org/kdepriv">
+ <folder href="file:///home/seba/Documents/Personal/Courses/Hyperspectral.image.processing/Hyperspectral.image.processing%7CG.Camps-Valls.pdf">
+  <title>/home/seba/Documents/Personal/Courses/Hyperspectral.image.processing/Hyperspectral.image.processing|G.Camps-Valls.pdf</title>
+  <bookmark href="file:///home/seba/Documents/Personal/Courses/Hyperspectral.image.processing/Hyperspectral.image.processing%7CG.Camps-Valls.pdf#78;C2:0.499449:0.516962:1">
+   <title>#79</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -18,10 +12,10 @@
    </info>
   </bookmark>
  </folder>
- <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf">
-  <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Morsdorf et al. - 2018 - Close-range laser scanning in forests towards phy.pdf</title>
-  <bookmark href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/03_Papers/Remote.sensing/Morsdorf%20et%20al.%20-%202018%20-%20Close-range%20laser%20scanning%20in%20forests%20towards%20phy.pdf#2;C2:0.5:0.597231:1">
-   <title>#3</title>
+ <folder href="file:///home/seba/Digital.library/Science-Engineering/Robotics/Programming Robots with ROS.pdf">
+  <title>/home/seba/Digital.library/Science-Engineering/Robotics/Programming Robots with ROS.pdf</title>
+  <bookmark href="file:///home/seba/Digital.library/Science-Engineering/Robotics/Programming%20Robots%20with%20ROS.pdf#30;C2:0.5:0.888398:1">
+   <title>#31</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>
@@ -29,10 +23,13 @@
    </info>
   </bookmark>
  </folder>
- <folder href="file:///home/seba/Dropbox/Digital.Library/00_To.read/Quigley et al. - Programming Robots with ROS.pdf">
-  <title>/home/seba/Dropbox/Digital.Library/00_To.read/Quigley et al. - Programming Robots with ROS.pdf</title>
-  <bookmark href="file:///home/seba/Dropbox/Digital.Library/00_To.read/Quigley%20et%20al.%20-%20Programming%20Robots%20with%20ROS.pdf#29">
-   <title>#30</title>
+ <folder href="file:///home/seba/Dropbox/Digital.Library/Documentation/Git.pdf">
+  <title>/home/seba/Dropbox/Digital.Library/Documentation/Git.pdf</title>
+ </folder>
+ <folder href="file:///home/seba/Dropbox/Digital.Library/03_Reference-books/Bader - Python tricks a buffet of awesome Python features.pdf">
+  <title>/home/seba/Dropbox/Digital.Library/03_Reference-books/Bader - Python tricks a buffet of awesome Python features.pdf</title>
+  <bookmark href="file:///home/seba/Dropbox/Digital.Library/03_Reference-books/Bader%20-%20Python%20tricks%20a%20buffet%20of%20awesome%20Python%20features.pdf#3;C2:0.499259:0.377228:1">
+   <title>#4</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>

@@ -5,6 +5,7 @@ apt_install=(
   cifs-utils
   colordiff
   git-gui
+  kazam
   libgdal-dev
   libgdal1-dev
   libgdal1i

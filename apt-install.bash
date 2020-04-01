@@ -24,6 +24,7 @@ apt_install=(
   r-base
   shutter
   terminator
+  texlive-font-utils
   unrar
   vinagre
   virtualenv

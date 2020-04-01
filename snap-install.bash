@@ -2,6 +2,7 @@
 
 snap_pkgs=(
   'atom --classic'
+  'octave'
 )
 
 for ((i=0; i<${#snap_pkgs[@]}; i++))

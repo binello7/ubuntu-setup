@@ -2,8 +2,7 @@
 
 atom_pkgs=(
   autocomplete-python
-  language-latex
-  language-matlab-octave
+  
 )
 
 for pkg in ${atom_pkgs[@]}
@@ -13,3 +12,4 @@ done
 
 echo -e "\nAtom setup completed"
 
+language-matlab-octave

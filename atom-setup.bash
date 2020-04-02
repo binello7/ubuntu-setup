@@ -2,6 +2,7 @@
 
 atom_pkgs=(
   autocomplete-python
+  language-matlab-octave
 )
 
 for pkg in ${atom_pkgs[@]}

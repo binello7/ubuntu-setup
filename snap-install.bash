@@ -2,6 +2,7 @@
 
 snap_pkgs=(
   'atom --classic'
+  'freecad'
   'octave'
 )
 

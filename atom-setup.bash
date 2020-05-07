@@ -5,6 +5,7 @@ atom_pkgs=(
   language-latex
   language-matlab-octave
   markdown-toc
+  tidy-markdown
 )
 
 for pkg in ${atom_pkgs[@]}

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" dbusName="okular" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+<xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" dbusName="okular" xmlns:kdepriv="http://www.kde.org/kdepriv">
  <folder href="file:///home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf">
   <title>/home/seba/Dropbox/Digital.Library/Matterhorn.Project/Quigley et al. - Programming Robots with ROS.pdf</title>
  </folder>
@@ -57,8 +57,41 @@
  </folder>
  <folder href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/James et al. - 2013 - An introduction to statistical learning with appl.pdf">
   <title>/home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/James et al. - 2013 - An introduction to statistical learning with appl.pdf</title>
-  <bookmark href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/James%20et%20al.%20-%202013%20-%20An%20introduction%20to%20statistical%20learning%20with%20appl.pdf#61;C2:0.49941:0.785381:1">
-   <title>#62</title>
+  <bookmark href="file:///home/seba/Dropbox/Digital.Library/02_Research&amp;Science/01_Books/James%20et%20al.%20-%202013%20-%20An%20introduction%20to%20statistical%20learning%20with%20appl.pdf#95;C2:0.49941:0.959953:1">
+   <title>#96</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/seba/polybox/Matterhorn.Project/Courses/Hyperspectral.image.processing/Hyperspectral.image.processing%7CG.Camps-Valls.pdf">
+  <title>/home/seba/polybox/Matterhorn.Project/Courses/Hyperspectral.image.processing/Hyperspectral.image.processing|G.Camps-Valls.pdf</title>
+  <bookmark href="file:///home/seba/polybox/Matterhorn.Project/Courses/Hyperspectral.image.processing/Hyperspectral.image.processing%7CG.Camps-Valls.pdf#80;C2:0.499605:0.467962:1">
+   <title>#81</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/seba/polybox/Forest-project/brainforest/Forest Data Ecoystem_approach &amp; trials design_FINALREVIEWER_20200408.pdf">
+  <title>/home/seba/polybox/Forest-project/brainforest/Forest Data Ecoystem_approach &amp; trials design_FINALREVIEWER_20200408.pdf</title>
+  <bookmark href="file:///home/seba/polybox/Forest-project/brainforest/Forest%20Data%20Ecoystem_approach%20&amp;%20trials%20design_FINALREVIEWER_20200408.pdf#4;C2:0.5:0.437193:1">
+   <title>#5</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/seba/Dropbox/Digital-Library/02_Research/Remote-sensing/Perich et al. - 2020 - Assessment of Multi-Image Unmanned Aerial Vehicle .pdf">
+  <title>/home/seba/Dropbox/Digital-Library/02_Research/Remote-sensing/Perich et al. - 2020 - Assessment of Multi-Image Unmanned Aerial Vehicle .pdf</title>
+  <bookmark href="file:///home/seba/Dropbox/Digital-Library/02_Research/Remote-sensing/Perich%20et%20al.%20-%202020%20-%20Assessment%20of%20Multi-Image%20Unmanned%20Aerial%20Vehicle%20.pdf#8;C2:0.499564:0.357475:1">
+   <title>#9</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>

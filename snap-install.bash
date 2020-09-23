@@ -2,6 +2,7 @@
 
 snap_pkgs=(
   'atom --classic'
+  'code --classic'
   'skype --classic'
   'zoom-client'
 )

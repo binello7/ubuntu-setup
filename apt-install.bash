@@ -17,7 +17,6 @@ apt_install=(
   net-tools
   openssh-client
   openssh-server
-  pdfshuffler
   polybox-client
   python3-venv
   qgis

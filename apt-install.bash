@@ -10,6 +10,7 @@ apt_install=(
   libgdal1-dev
   libgdal1i
   libimage-exiftool-perl
+  libspatialindex-dev
   network-manager-openvpn
   network-manager-openvpn-gnome
   network-manager-vpnc

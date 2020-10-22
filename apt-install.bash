@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt_install=(
+apt_pkgs=(
   byobu
   cifs-utils
   colordiff
@@ -50,7 +50,7 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD
 echo "Update apt-index..."
 sudo apt update
 
-for pkg in ${apt_install[@]}
+for pkg in ${apt_pkgs[@]}
 do
   sudo apt install -y $pkg
 done
